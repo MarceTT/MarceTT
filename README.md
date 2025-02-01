@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Marcelo Toro
 
-### 🚀 Full Stack Developer | PHP, Laravel & React | Backend & Frontend Expertise.
+### 🚀 Full Stack Developer | PHP, Laravel, React & Vue.js | Backend, Frontend & API Development.
 
 📍 Winnipeg, MB | 🌎 Disponible para reubicación en España  
 📫 Contacto: [mtoro6@gmail.com](mailto:mtoro6@gmail.com) | [Portfolio](https://marcelo-dev.netlify.app/)  
