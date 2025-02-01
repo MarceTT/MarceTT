@@ -49,13 +49,13 @@
 - Desarrollo en **PHP 7.2** con **Laravel 6**, **JavaScript, HTML5, CSS3, Bootstrap 5 y Vue 2**.
 - Uso de **Bitbucket** para control de versiones y colaboración.
 
-### 💼 **Full Stack Developer - Universidad del Alba** *(Mar 2018 - Oct 2021)*  
-- Desarrollo de sistemas internos con **Laravel 5.5 - 5.6, Angular 8 y Bootstrap 3-4**.
-- Mantenimiento de bases de datos **MySQL y SQL Server**.
-
 ### 💼 **IT Manager - Universidad del Alba** *(Oct 2021 - Ene 2023)*  
 - Gestión de proyectos de TI y liderazgo de equipo.
 - Desarrollo de soluciones tecnológicas estratégicas.
+
+### 💼 **Full Stack Developer - Universidad del Alba** *(Mar 2018 - Oct 2021)*  
+- Desarrollo de sistemas internos con **Laravel 5.5 - 5.6, Angular 8 y Bootstrap 3-4**.
+- Mantenimiento de bases de datos **MySQL y SQL Server**.
 
 ---
 
