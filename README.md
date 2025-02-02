@@ -61,7 +61,7 @@
 
 ## 📌 Proyectos Destacados
 
-📌 **[Match My Course](https://match-my-course.vercel.app/)** *(Freelance - En desarrollo)*  
+📌 **[Match My Course]** *(Freelance - En desarrollo)*  
 Plataforma para la búsqueda y comparación de cursos en línea, desarrollada con **Next.js y Tailwind CSS**.
 
 📌 **[Actualización del Back-office - Cable Color S.A.]** *(2024)*  
